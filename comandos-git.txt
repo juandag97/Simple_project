@@ -1,0 +1,3 @@
+git show file #Shows changes of file
+git log file: #Shows history of file
+
