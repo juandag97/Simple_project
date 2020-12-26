@@ -3,7 +3,15 @@ Mi nombre es Juan David Acosta y tengo 23 anios. Naci en Colombia viviendo en to
 Something shining.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master uno.
 =======
 Experimento uno.
 >>>>>>> Experimento 1
+=======
+Master 1
+
+Experimento uno.
+
+Experimento dos.
+>>>>>>> Experimento 2
